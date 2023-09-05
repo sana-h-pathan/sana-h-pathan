@@ -1,4 +1,10 @@
-### Hi there 👋
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+</picture>
+
 ## About me
 
 A driven person who enjoys working on complete solutions that produce impact by developing scalable and sustainable social and technical systems. I have a tremendous interest in learning new technologies and implementing the best suitable one based on requirements. Proficient in Java, databases, backend, and full-stack development, and in a constant search for new opportunities to use and broaden my knowledge and skill set.
