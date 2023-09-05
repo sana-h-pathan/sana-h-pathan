@@ -7,13 +7,21 @@ A driven person who enjoys working on complete solutions that produce impact by 
 
 
 Technical proficiencies:
+
 Key Areas: Full Stack Development, Backend development, Object-Oriented Programming, Data Structures and Algorithms
+
 Programming Languages: Java, C#, Perl and Shell Scripting, C++, SQL, QlikView, MicroServices, Java API's
+
 Tools: Git, SVN, IntelliJ IDEA, Avaya Dialogue Designer, Avaya Designer, Jira, Putty
+
 Methodologies: Oriented Design (OOO), Agile Software Development, Object-Oriented Programming (OOP).
+
 Web: HTML5, CSS, JavaScript, ReactJS, REST API, JSON
+
 Framework: Spring, Bootstrap, Selenium
+
 Database: Sybase, DB, MSSQL
+
 Operating System: Linux
 <!--
 **sana-h-pathan/sana-h-pathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
